@@ -25,6 +25,11 @@ dependencies:
 - containers
 - regex-tdfa
 - data-ordlist
+- bytestring
+- vector
+- text
+- cassava
+- bytestring
 
 library:
   source-dirs: src
